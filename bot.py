@@ -3,7 +3,7 @@ from image_downloader import download_image
 from telebot import TeleBot, types
 
 # Инициализация бота
-bot = TeleBot(token='7562177364:AAEdGzL4oymd8hzkAo07whEW_r9Kn8rUyLU', parse_mode='html')
+bot = TeleBot(token='', parse_mode='html')
 
 # Обработчик команды /start
 @bot.message_handler(commands=['start'])
