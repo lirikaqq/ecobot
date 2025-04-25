@@ -1,7 +1,7 @@
 import requests
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-WEATHERBIT_API_KEY = '9fb8409def1b44a3b722ffd211b05610'
+WEATHERBIT_API_KEY = ''
 WEATHERBIT_API_URL = 'https://api.weatherbit.io/v2.0/current'
 AIR_QUALITY_API_URL = 'https://api.weatherbit.io/v2.0/current/airquality'
 
