@@ -6,7 +6,7 @@ from image_downloader import download_image
 from location_service import get_random_eco_shops, get_eco_shops_message
 from weather import generate_weather_image
 
-bot = TeleBot(token='8073573771:AAH5nfUUvJp40dJBg2PsKyvW9yv5wzQIWik')
+bot = TeleBot(token='')
 
 last_article_message = {}
 last_list_message = {}
