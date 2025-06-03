@@ -7,7 +7,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://core.telegram.org/bots)
   [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 </div>
-
+(@TiffaEcoBot)
 ## 📌 О проекте
 
 EcoBot Тиффа - это интеллектуальный помощник для экологичного образа жизни, который предоставляет:
